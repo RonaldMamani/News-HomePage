@@ -1,7 +1,7 @@
 export default function Button({text}) {
     return (
         <button className="
-            bg-red-500 px-5 py-2 text-[#fffdfa]
+            bg-red-500 px-5 py-2 text-[#fffdfa] rounded-md
             hover:bg-[#00001a] transition-colors
         ">{text}</button>
     )

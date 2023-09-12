@@ -7,8 +7,9 @@ import ImageCard03 from "../../assets/image-gaming-growth.jpg"
 export default function NewsCard() {
     return (
         <section className="
-            p-4 flex flex-col gap-5
-            md:mx-52 md:my-16 md:grid md:grid-cols-3
+            m-4 flex flex-col gap-5
+            md:px-28 md:py-16 
+            lg:px-52 lg:grid lg:grid-cols-3
             ">
             <CardNews
                 ImageNews={ImageCard01}

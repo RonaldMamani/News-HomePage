@@ -4,8 +4,9 @@ import NavBar from "./Navbar"
 export default function Header() {
     return (
         <header className="
-            flex justify-between items-center p-4
-            md:mx-52
+            flex justify-between items-center m-4
+            md:px-28
+            lg:px-52
             ">
             <a href="#">
                 <img src={logo} alt="Logotipo" />

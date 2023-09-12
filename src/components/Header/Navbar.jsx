@@ -6,7 +6,7 @@ import Offcanvas from 'react-bootstrap/Offcanvas';
 export default function NavBar() {
     return (
     <>
-        {['md'].map((expand) => (
+        {['lg'].map((expand) => (
         <Navbar key={expand} expand={expand} className="bg-body-tertiary">
             <Container fluid>
                 <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />

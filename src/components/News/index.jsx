@@ -6,8 +6,9 @@ import ImageNoticePrincipal from "../../assets/image-web-3-desktop.jpg"
 export default function News() {
     return (
         <section className="
-            p-4 flex flex-col gap-16
-            md:mx-52 md:grid md:grid-cols-3 md:gap-7
+            m-4 flex flex-col gap-16
+            md:px-28 md:py-16
+            lg:px-52 lg:grid lg:grid-cols-3 lg:gap-7
             ">
             <PrincipalNotice 
                 ImageNotice={ImageNoticePrincipal}
