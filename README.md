@@ -1,8 +1,37 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# News Home Page
 
-Currently, two official plugins are available:
+Projeto de Pagina de News Home Page, pagina baseada em Landing Page de Noticias utilizando React com JavaScript com TailwindCSS.
+## Imagens
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![News Home Page](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_900/Screenshots/tbf4omx8dwhffpiarrtc.jpg)
+
+
+## Deploy
+
+O Projeto está em hospedagem na Vercel o link esta abaixo:
+
+Link: https://news-home-page-ten.vercel.app/
+
+## Instalação
+
+Instalação das dependencias do projeto
+
+```bash
+  npm install
+```
+
+Rodar o Codigo do Projeto
+
+```
+    npm start
+```
+    
+## Aprendizados
+
+O Projeto do News Home Page foi um dos primeiros projetos com React com TailwindCSS onde tive Aprendizado de criação de componentes com TailwindCSS e com Vite.
+
+## Autores
+
+- [RonaldMamani](https://github.com/RonaldMamani)
+
